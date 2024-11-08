@@ -10,3 +10,4 @@ Real-Time Autocomplete Feature: I implemented a real-time autocomplete feature t
 Gradio Interface: I designed and deployed the user interface using Gradio and implemented a clean, user-friendly layout for presenting the course search results. The interface dynamically displays relevant course details, such as the title, image, link, and a relevance score.
 
 Deployment on Huggingface Spaces: I deployed the search tool on Huggingface Spaces, making it publicly accessible for review. 
+gradio:https://huggingface.co/spaces/Chandu9121/smart_searchtool
